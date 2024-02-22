@@ -13,6 +13,7 @@ using TodoApi.Models;
 
 namespace TodoApi
 {
+    //This is the class
     public class Startup
     {
         public Startup(IConfiguration configuration)
